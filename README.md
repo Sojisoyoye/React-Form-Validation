@@ -2,11 +2,18 @@
 
 This is to demostrate react form validation
 
-To run the app
+Install dependencies
 
 > npm install
+
+To run the app
+
 > npm start
 
 To test
 
 > npm test
+
+Author
+
+Soji Soyoye
